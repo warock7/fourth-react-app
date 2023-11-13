@@ -46,8 +46,8 @@ body {
   }
   
   .li-item:nth-child(even) {
-    background-color: lightblue;
-    color: gray;
+    background-color: rgb(49, 99, 235);
+    color: white;
   }
   
   .li-item:nth-child(odd) {
@@ -74,7 +74,7 @@ body {
   }
   
   button:hover {
-    background-color: #505fff;
+    background-color: rgb(128, 60, 228);
     color: white;
     border-radius: 5px;
   }
